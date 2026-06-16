@@ -1,0 +1,12 @@
+|                      | BMW FY                | Mercedes FY                                     | Volkswagen FY   | BMW Q                                | Mercedes Q   | Volkswagen Q   |
+|:---------------------|:----------------------|:------------------------------------------------|:----------------|:-------------------------------------|:-------------|:---------------|
+| Revenue              | 133,453 million euros | 132214                                          | Not Reported    | €31,007 million and €133,453 million | 132,214      | Not Reported   |
+| EBIT                 | 10,186 million euros  | 5820                                            | Not Reported    | €2,004 million and €10,186 million   | 5,820        | 10,236         |
+| Operating_margin     | 7.6%                  | 4.4%                                            | Not Reported    | Not Reported                         | 4.4%         | Not Reported   |
+| Cash_metric          | 8,407 million euros   | Free cash flow of the industrial business: 5856 | Not Reported    | €19,011 million                      | 5,414        | Not Reported   |
+| Net_liquidity        | Not Reported          | 32162                                           | Not Reported    | Not Reported                         | 32,162       | Not Reported   |
+| Return_on_capital    | Not Reported          | Not Reported                                    | Not Reported    | Not Reported                         | Not Reported | Not Reported   |
+| Cost_of_capital      | Not Reported          | Not Reported                                    | Not Reported    | Not Reported                         | Not Reported | Not Reported   |
+| EPS                  | 11.89 euros           | 5.34                                            | Not Reported    | €2.68 and €11.89                     | 5.34         | 11.89          |
+| Dividend_per_share   | Not Reported          | 3.5                                             | Not Reported    | Not Reported                         | 3.50         | 3.50           |
+| Market_cap_at_100EUR | Not Reported          | Not Reported                                    | Not Reported    | Not Reported                         | Not Reported | Not Reported   |

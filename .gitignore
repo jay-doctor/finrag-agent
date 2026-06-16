@@ -1,0 +1,9 @@
+.env
+chroma_db/
+extraction_cache.pkl
+chunks.json
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
