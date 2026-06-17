@@ -1,4 +1,7 @@
 langchain==0.3.13
+langchain-community
+langchain-openai
+langchain-groq
 chromadb==0.5.23
 pypdf==5.1.0
 pdfplumber==0.11.4
@@ -10,6 +13,4 @@ pytesseract==0.3.13
 pdf2image==1.16.3
 Pillow==10.4.0
 python-dotenv==1.0.1
-langchain-groq
-langchain-openai
 streamlit==1.38.0
