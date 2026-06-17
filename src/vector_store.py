@@ -1,6 +1,6 @@
 # Option 1: OpenAI embeddings (active – requires OPENAI_API_KEY)
 from langchain_openai import OpenAIEmbeddings
-from langchain_community.vectorstores import Chroma
+from langchain_chroma import Chroma  # Updated from langchain_community.vectorstores
 
 def create_vectorstore(docs):
     # Active: OpenAI embeddings (better retrieval)
@@ -17,7 +17,9 @@ def create_vectorstore(docs):
     for i in range(0, len(docs), batch_size):
         batch = docs[i:i+batch_size]
         if vectorstore is None:
-            vectorstore = Chroma.from_documents(batch, embeddings, persist_directory="./chroma_db")
+            # No persist_directory = in-memory only, works on Streamlit Cloud
+            # Previously: Chroma.from_documents(batch, embeddings, persist_directory="./chroma_db")
+            vectorstore = Chroma.from_documents(batch, embeddings)
         else:
             vectorstore.add_documents(batch)
     

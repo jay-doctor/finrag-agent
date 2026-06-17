@@ -1,7 +1,8 @@
 langchain==0.3.13
-langchain-community
+langchain-community==0.3.13
 langchain-openai
 langchain-groq
+langchain-chroma
 chromadb==0.5.23
 pypdf==5.1.0
 pdfplumber==0.11.4
