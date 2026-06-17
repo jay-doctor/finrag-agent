@@ -3,7 +3,7 @@ chromadb==0.5.23
 pypdf==5.1.0
 pdfplumber==0.11.4
 openai==1.58.1
-pandas==2.2.2
+pandas
 tabulate==0.9.0
 tiktoken==0.8.0
 pytesseract==0.3.13
